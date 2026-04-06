@@ -1,0 +1,43 @@
+# Byte-compiled / optimised / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+*.egg-info/
+dist/
+build/
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# IDE / Editor settings
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Audio sample data (too large for git; see README for instructions)
+visualization/spherical_phase_space/data/*.wav
+
+# Dissertation PDF (linked externally; see README)
+*.pdf
+
+# Processing compiled classes
+*.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/

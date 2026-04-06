@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+title: "Spherical Phase Space: A 3D Visualisation of Atonal Harmonic Syntax in the Fourier Space"
+message: "If you use this software, please cite both the software and the associated dissertation."
+type: software
+authors:
+  - family-names: Pereira
+    given-names: Samuel Filipe da Silva
+    orcid: ""
+repository-code: "https://github.com/sml-pereira/spherical-phase-space"
+license: MIT
+version: "0.2"
+date-released: "2020-06-01"
+keywords:
+  - music-analysis
+  - discrete-fourier-transform
+  - pitch-class-sets
+  - spherical-visualisation
+  - atonal-music
+  - computational-musicology
+  - processing
+  - phase-space
+references:
+  - type: thesis
+    authors:
+      - family-names: Pereira
+        given-names: Samuel Filipe da Silva
+    title: "A Sintaxe Harmónica Atonal no Espaço de Fourier: Para Uma Representação Esférica das Fases"
+    year: 2020
+    institution:
+      name: Universidade do Porto
+    thesis-type: "Master's thesis"
+    department: "Mestrado em Multimédia - Especialização em Música Interactiva e Design de Som"
