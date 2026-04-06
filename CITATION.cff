@@ -5,7 +5,7 @@ type: software
 authors:
   - family-names: Pereira
     given-names: Samuel Filipe da Silva
-    orcid: ""
+    orcid: https://orcid.org/0000-0003-2866-1081
 repository-code: "https://github.com/sml-pereira/spherical-phase-space"
 license: MIT
 version: "0.2"
