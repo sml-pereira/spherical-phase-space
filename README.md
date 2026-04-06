@@ -2,7 +2,7 @@
 
 An interactive 3D visualisation system that maps the harmonic content of Schoenberg's Op. 19 _Sechs kleine Klavierstücke_ onto a sphere, using the Discrete Fourier Transform (DFT) of pitch-class sets. Chords are represented as points on the sphere's surface according to their phase-space coordinates, and K-means clustering identifies harmonic regions and movement patterns across the piece.
 
-This project was developed as part of the master's thesis *"A Sintaxe Harmonica Atonal no Espaco de Fourier: Para Uma Representacao Esferica das Fases"* (Atonal Harmonic Syntax in the Fourier Space: Towards a Spherical Representation of Phases) at the [University of Porto](www.doi.org/10.34626/w4hp-0458), 2020.
+This project was developed as part of the master's thesis *"A Sintaxe Harmonica Atonal no Espaco de Fourier: Para Uma Representacao Esferica das Fases"* (Atonal Harmonic Syntax in the Fourier Space: Towards a Spherical Representation of Phases) at the [University of Porto](https://www.doi.org/10.34626/w4hp-0458), 2020.
 
 > **Thesis author:** Samuel Pereira
 > **Supervisor:** Gilberto Bernardes
