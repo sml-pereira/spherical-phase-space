@@ -167,7 +167,7 @@ This approach builds on the DFT-based pitch-class set analysis formalised by Yus
 
 If you use this software or data in your research, please cite the associated thesis:
 
-> Pereira, S. (2020). *A Sintaxe Harmonica Atonal no Espaco de Fourier: Para Uma Representacao Esferica das Fases* [Master's thesis, Universidade do Porto].
+> Pereira, S. (2020). *A Sintaxe Harmonica Atonal no Espaco de Fourier: Para Uma Representacao Esferica das Fases*. Master's thesis. University of Porto. https://www.doi.org/10.34626/w4hp-0458.
 
 A machine-readable citation file is provided in [`CITATION.cff`](CITATION.cff).
 
